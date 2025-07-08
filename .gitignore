@@ -1,0 +1,25 @@
+# ignore osx artifacts
+.DS_Store
+
+.env
+
+# ignore python artifacts
+*.pyc
+__pycache__
+
+
+# ignore virtualenv
+.venv*
+
+# ignore logs
+*.log
+
+# ignore temp
+*.tmp
+
+# for how ignore .cache, data, figs, results
+.cache
+# data
+
+# notebooks that end in -TODO
+*TODO.ipynb

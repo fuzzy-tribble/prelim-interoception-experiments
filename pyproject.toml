@@ -1,0 +1,5 @@
+[project]
+name = "prelim-interoception-experiments"
+description = "Preliminary experiments for interoception studies - mapping phsyiological correlates of subjective experience"
+version = "0.0.1"
+requires-python = "==3.10.13"

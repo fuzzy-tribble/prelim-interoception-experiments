@@ -1,0 +1,12 @@
+ipykernel
+ipywidgets
+jupyter
+numpy
+pandas
+seaborn
+matplotlib
+openai 
+python-dotenv
+
+pywavelets
+neurokit2
